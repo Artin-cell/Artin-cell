@@ -195,9 +195,9 @@
   Пока action не настроен — картинка не отобразится.
 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artin-cell/Artin-cell/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Artin-cell/Artin-cell/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/Artin-cell/Artin-cell/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artin-cell/Artin-cell/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Artin-cell/Artin-cell/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/Artin-cell/Artin-cell/output/github-snake.svg" alt="Snake animation">
 </picture>
 
 </div>
